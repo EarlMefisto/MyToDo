@@ -2,7 +2,7 @@
   "name": "my-to-do",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://EarlMefisto.github.io/MyToDo",
+  "homepage": "https://earlmefisto.github.io/MyToDo/",
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000",
